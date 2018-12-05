@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2018/09/04/hello-world/</loc>
+    <loc>http://blog.qi382.com/2018/12/05/about/</loc>
+    
+    <lastmod>2018-12-05T15:06:38.729Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.qi382.com/2018/09/05/hello-world/</loc>
     
     <lastmod>2018-09-04T16:02:38.924Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2018/09/04/index/</loc>
+    <loc>http://blog.qi382.com/2018/09/04/index/</loc>
     
     <lastmod>2018-09-04T16:01:44.229Z</lastmod>
     

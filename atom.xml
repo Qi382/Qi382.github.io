@@ -5,9 +5,9 @@
   <subtitle>just for bb</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2018-09-04T16:02:38.924Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://blog.qi382.com/"/>
+  <updated>2018-12-05T15:06:38.729Z</updated>
+  <id>http://blog.qi382.com/</id>
   
   <author>
     <name>Qi382</name>
@@ -17,9 +17,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>about</title>
+    <link href="http://blog.qi382.com/2018/12/05/about/"/>
+    <id>http://blog.qi382.com/2018/12/05/about/</id>
+    <published>2018-12-05T15:04:26.000Z</published>
+    <updated>2018-12-05T15:06:38.729Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/09/04/hello-world/"/>
-    <id>http://yoursite.com/2018/09/04/hello-world/</id>
+    <link href="http://blog.qi382.com/2018/09/05/hello-world/"/>
+    <id>http://blog.qi382.com/2018/09/05/hello-world/</id>
     <published>2018-09-04T16:02:38.925Z</published>
     <updated>2018-09-04T16:02:38.924Z</updated>
     
@@ -40,8 +54,8 @@
   
   <entry>
     <title>index</title>
-    <link href="http://yoursite.com/2018/09/04/index/"/>
-    <id>http://yoursite.com/2018/09/04/index/</id>
+    <link href="http://blog.qi382.com/2018/09/04/index/"/>
+    <id>http://blog.qi382.com/2018/09/04/index/</id>
     <published>2018-09-04T07:47:58.000Z</published>
     <updated>2018-09-04T16:01:44.229Z</updated>
     
